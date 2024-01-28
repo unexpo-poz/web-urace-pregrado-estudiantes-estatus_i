@@ -1,0 +1,182 @@
+  .resumen {						/* PIE DE TABLA*/
+  color: #FFFFFF;
+  text-align: justify; 
+  font-family:Arial; 
+  font-size: 11px; 
+  font-weight: normal;
+  background-color:#3366CC;
+  font-variant: normal;
+  }
+  .datospf {						/* campos de formulario*/
+  text-align: left; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#FFFFFF; 
+  border-style: solid;
+  border-width: 1px;
+  border-color: #285DA8;
+  }
+  .fecha {							/* Funcion javascript FECHA y hora*/
+  text-align: left; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#FFFFFF; 
+  border-style: solid;
+  border-width: 0px;
+  border-color: #96BBF3;
+  }
+  .campo {
+  color: #8F8F8F;
+  text-align: left; 
+  font-family: Arial; 
+  font-size: 10px;
+  font-weight: normal;
+  background-color:#FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #96BBF3;
+  }
+  .enc_p {							/* Tirulo del Modulo*/
+  color:#FFFFFF;
+  text-align: center; 
+  font-family:Helvetica; 
+  font-size: 14px; 
+  font-weight: bold;
+  background-color:#3366CC;
+  height:20px;
+  }
+  .enc_leg {
+  color:#3366CC;
+  text-align: center; 
+  font-family:Helvetica; 
+  font-size: 14px; 
+  font-weight: bold;
+  background-color:#FFFFFF;
+  height:20px;
+  }
+  .datosp {							/* CEldas */
+  text-align: left; 
+  font-family:Arial; 
+  font-size: 12px;
+  font-weight: normal; 
+  background-color:#96BBF3;
+  }
+  .datospd {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 12px;
+  font-weight: normal; 
+  font-variant: small-caps;
+  }
+  .sugerencia {						/* PIE DE PAGINA*/
+  color: #8F8F8F;
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  }
+  .identidad {
+  color: #8F8F8F;
+  text-align: right; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  }
+  .act { 							/* ENCABEZADO PAGINA*/
+  color: #454545;
+  text-align: center; 
+  font-family:Arial; 
+  font-weight: bold;
+  font-size: 12px; 
+  background-color:#96BBF3;
+  }
+  .directo {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight:normal;
+  color: #FFFF00;
+  text-align:center;
+  text-decoration: none;
+  background-color:#3366CC;
+  }
+  a.directo:hover {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #3366CC;
+  text-decoration: underline;
+  background-color:#96BBF3;
+  }
+  .titulo_tabla {											/* TABLA MENSAJE (tr)*/
+  font-family:Arial; 
+  font-size: 13px; 
+  font-weight: normal;
+  background-color: #FFFF66;
+  }
+  .sub_tabla {												/* fila notificacion (tr)*/
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 12px; 
+  font-weight: bold;
+  font-variant: normal;
+  background-color:#FFFFFF;
+  }
+  .datos_tabla {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 12px; 
+  font-weight: normal;
+  font-variant: normal;
+  background-color:#FFFFFF;
+  }
+  .alert {
+  color: #FF0000;
+  text-align: justify; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-variant: normal;
+  font-weight: bold;
+  background-color:#FFFFFF;
+  }
+  .fieldset {											/* AGRUPAR FORMULARIO <fieldset> tabla-><etiquetas(td)>*/
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight:bold;
+  color: #285DA8;
+  text-align:left;
+  text-decoration: none;
+  background-color:#FFFFFF;
+  }
+  .legend {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight:bold;
+  color: #FFFFFF;
+  text-align:center;
+  text-decoration: none;
+  background-color:#285DA8;
+  }
+  .datos {										/* DATOS CONSULTADOS */
+  text-align: left; 
+  font-family:Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  font-weight: normal;
+  color: #000000;
+  background-color:#FFFFFF;
+  }
+  .enc_materias {					/* TABLA DE ENCABEZADO PARA LISTA MATERIAS*/
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 12px;
+  font-weight: bold;
+  color: #000000;
+  background-color:#FFFFFF;
+  }
+  .datos_materias {
+  font-family:Verdana, Geneva, sans-serif;
+  font-size: 10px;
+  font-weight: normal;
+  color: #000000;
+  background-color:#FFFFFF;
+  }

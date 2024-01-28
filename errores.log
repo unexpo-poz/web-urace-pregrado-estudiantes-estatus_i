@@ -1,0 +1,39 @@
+C:[25/11/2013 09:30:17.11][179.45.98.52][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='18371650'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]03806 RSO SCT Session closed/terminated}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[29/01/2014 00:08:05.55][186.90.216.96][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='17523155'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[16/02/2014 18:05:02.00][186.90.172.43][48] SELECT password FROM usuarios WHERE userid='13-25393236' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 23:28:59.12][190.94.237.254][48] SELECT password FROM usuarios WHERE userid='12-21251110' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[16/02/2014 23:28:59.12][190.94.237.254][N_E] SELECT tipo_usuario FROM usuarios WHERE password='0e4e4862f925c74a4782f4d85e0b8cfd' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[13/05/2014 14:28:14.64][186.94.32.245][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='19332580'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[13/05/2014 14:33:20.62][186.94.32.245][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='19332580'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[10/07/2014 10:02:52.78][179.45.103.117][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='19094892'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[21/07/2014 11:19:03.47][190.201.171.167][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='26129134'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[01/08/2014 13:53:13.95][190.206.39.141][48] SELECT password FROM usuarios WHERE userid='12-24863898' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[01/08/2014 13:53:13.95][190.206.39.141][N_E] SELECT tipo_usuario FROM usuarios WHERE password='c5b523c39c3706aae8088ac10acd70b1' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[01/08/2014 13:58:59.62][190.201.161.64][48] SELECT password FROM usuarios WHERE userid='13-26073950' [1][0] OK
+C:[01/08/2014 13:58:59.62][190.201.161.64][N_E] SELECT tipo_usuario FROM usuarios WHERE password='11c71c64080af66422e02870cf030f14' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]03806 RSO SCT Session closed/terminated}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[15/09/2014 18:07:43.64][201.243.100.21][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='19095695'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[25/09/2014 10:52:14.41][172.16.4.254][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='21251249'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[25/09/2014 10:55:40.01][172.16.4.254][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='21251249'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[25/09/2014 10:56:07.17][172.16.4.254][48] SELECT password FROM usuarios WHERE userid='09-21251249' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[25/09/2014 10:56:07.17][172.16.4.254][N_E] SELECT tipo_usuario FROM usuarios WHERE password='dc599a9972fde3045dab59dbd1ae170b' [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[31/03/2017 08:59:53.62][172.16.4.254][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='20804788'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+C:[13/06/2018 11:03:06.56][172.16.4.254][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='27955360'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[02/12/2021 12:49:22.98][172.16.4.230][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='25393786'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+ {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+*:[02/12/2021 12:49:56.36][172.16.4.230][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='25393786'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]09268 GCI CCN Cannot connect}
+C:[10/05/2023 12:48:31.66][172.16.4.20][44]  SELECT ci_e, exp_e, nombres, apellidos, carrera,  nombres2, apellidos2  FROM DACE002, TBLACA010  WHERE ci_e='32226157'  AND tblaca010.c_uni_ca=dace002.c_uni_ca [0][0]  {[MERANT][ODBC SQLBase driver][SQLBase]01805 LKM TMO Time out}

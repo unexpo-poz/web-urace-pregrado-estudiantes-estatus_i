@@ -1,0 +1,186 @@
+/* CSS Document */
+
+/*.boton {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#e0e0e0; 
+  font-variant: small-caps;
+  height: 20px;
+  padding: 0px;
+  width: 80px;
+  }*/
+
+  .datospf {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#FFFFFF; 
+  border-style: solid;
+  border-width: 1px;
+  border-color: #96BBF3;
+  }
+ .enc_p {
+  color:#FFFFFF;
+  text-align: center; 
+  font-family:Helvetica; 
+  font-size: 11px; 
+  font-weight: normal;
+  background-color:#3366CC;
+  height:20px;
+  font-variant: small-caps;
+}
+    .encna {
+  text-align: center; 
+  font-family:Helvetica; 
+  font-size: 14px; 
+  font-weight: bold;
+  background-color:SILVER ;
+  height:20px;
+  font-variant: small-caps;
+  }
+    .datosn {
+  text-align: right; 
+  font-family:Arial; 
+  font-size: 12px;
+  font-weight: normal; 
+  font-variant: small-caps;
+  }
+  .act { 
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 12px; 
+  font-weight: normal;
+  background-color:#99CCFF;
+  }
+    .datona {
+  text-align: left; 
+  font-family:Arial; 
+  font-size: 12px;
+  font-weight: normal; 
+  font-variant: small-caps;
+  }
+  
+ #prueba {
+  overflow:hidden;
+  color:#00FFFF;
+  background:#F7F7F7;
+}
+
+.titulo {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 13px; 
+  font-weight: normal;
+  margin-top:0;
+  margin-bottom:0;	
+}
+.tit14 {
+  text-align: center; 
+  font-family: Arial; 
+  font-size: 13px; 
+  font-weight: bold;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+}
+.instruc {
+  font-family:Arial; 
+  font-size: 12px; 
+  font-weight: normal;
+  background-color: #FFFFCC;
+}
+.datosp {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#F0F0F0; 
+  font-variant: small-caps;
+}
+.datospn {
+  text-align: left; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#F0F0F0; 
+  font-variant: small-caps;
+}
+
+.datotabla {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px;
+  font-weight: normal;
+  background-color:#FFFFFF; 
+  font-variant: small-caps;
+}
+.boton {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 14px;
+  font-weight: normal;
+  background-color:#e0e0e0; 
+  font-variant: small-caps;
+  height: 20px;
+  width: 100px;
+  padding: 0px;
+}
+.enc_p {
+  color:#FFFFFF;
+  text-align: center; 
+  font-family:Helvetica; 
+  font-size: 11px; 
+  font-weight: normal;
+  background-color:#3366CC;
+  height:20px;
+  font-variant: small-caps;
+}
+.enc_p2 {
+  color:#FFFFFF;
+  text-align: center; 
+  font-family:Helvetica; 
+  font-size: 12px; 
+  font-weight: bold;
+  background-color:#FF0000;
+  height:20px;
+  font-variant: small-caps;
+}
+.inact {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px; 
+  font-weight: normal;
+  background-color:#F0F0F0;
+}
+.inact2 {
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 12px; 
+  font-weight: bold;
+  background-color:#FFFF99;
+}
+.act { 
+  text-align: center; 
+  font-family:Arial; 
+  font-size: 11px; 
+  font-weight: normal;
+  background-color:#99CCFF;
+}
+
+DIV.peq {
+   font-family: Arial;
+   font-size: 9px;
+   z-index: -1;
+}
+select.peq {
+   font-family: Arial;
+   font-size: 8px;
+   z-index: -1;
+   height: 11px;
+   border-width: 1px;
+   padding: 0px;
+   width: 84px;
+}
+-->
